@@ -5,7 +5,7 @@ body {
   .dino {
     position: absolute;
     bottom: 0;
-    background-image: url(/src/img/dino.png);
+    background-image: url(https://rodolfosouzamenezes.github.io/chrome-dino-game/src/img/dino.png);
     width: 60px;
     height: 60px;
   }
@@ -15,7 +15,7 @@ body {
     width: 60px;
     height: 60px;
     bottom: 0;
-    background-image: url(/src/img/cactus.png);
+    background-image: url(https://rodolfosouzamenezes.github.io/chrome-dino-game/src/img/cactus.png);
   }
   
   .game-over {
@@ -37,7 +37,7 @@ body {
   .background {
     position: absolute;
     bottom: 0px;
-    background-image: url('/src/img/background.png');
+    background-image: url('https://rodolfosouzamenezes.github.io/chrome-dino-game/src/img/background.png');
     background-repeat: repeat-x;
     animation: slideright 600s infinite linear;
     -webkit-animation: slideright 600s infinite linear;
